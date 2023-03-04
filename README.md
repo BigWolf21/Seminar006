@@ -7,7 +7,7 @@
 1, -7, 567, 89, 223-> 3
 
 
-[Решение](https://github.com/BigWolf21/Seminar001/blob/main/HW/Program01.cs)
+[Решение](https://github.com/BigWolf21/Seminar006/blob/main/HW01/Program.cs)
 
 Задача 43: Напишите программу, которая найдёт точку 
 пересечения двух прямых, заданных уравнениями 
@@ -16,4 +16,4 @@ y = k1 * x + b1, y = k2 * x + b2;
 
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-[Решение](https://github.com/BigWolf21/Seminar001/blob/main/HW04/Program.cs)
+[Решение](https://github.com/BigWolf21/Seminar006/blob/main/HW02/Program.cs)
